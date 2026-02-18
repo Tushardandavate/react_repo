@@ -1,0 +1,23 @@
+    .weather-container {
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #addbf8;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+    
+    .Weather-info {
+        margin-top: 20px;
+    }
+    
+    input[type="text"] {
+        width: 93%;
+        padding: 13px;
+        border-radius: 8px;
+        border: 1px solid #4a2323;
+        font-size: 16px;
+        outline: none;
+        margin-bottom: 15px;
+    }
