@@ -11,12 +11,12 @@ setName(e.target.value)
 }
 
 
-    
-  
-
   return (
     <>
       <div>
+      <h1>Tushar Kailas Dandavte </h1>
+
+      
         <p>Take The Input name</p>
         <input type='text' placeholder='Enter your name' onChange={setname} value={name}></input>
         <h1>Hello{name}</h1>
