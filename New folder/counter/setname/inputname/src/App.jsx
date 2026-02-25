@@ -14,7 +14,7 @@ setName(e.target.value)
   return (
     <>
       <div>
-      <h1>Tushar Kailas Dandavte </h1>
+      <h1>Tushar Kailas Dandavate </h1>
 
       
         <p>Take The Input name</p>
